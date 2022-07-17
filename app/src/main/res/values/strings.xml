@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomBroadCastReceiver</string>
+    <string name="custom_broadcast_action">com.example.custombroadcastsender.ACTION_SEND</string>
+    <string name="custom_broadcast_permission_name">com.example.custombroadcastreceiver.CUSTOM_PERMISSION</string>
+    <string name="string_extra">com.example.EXTRA_STRING</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="package_name">com.example.custombroadcastreceiver</string>
+    <string name="main_activity_with_package_name">com.example.custombroadcastreceiver.MainActivity</string>
+</resources>
